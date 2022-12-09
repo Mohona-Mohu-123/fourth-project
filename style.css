@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+.container{ 
+    width: 800px;
+    margin: auto;
+   
+}
+.logo{
+    text-align: center;
+  
+}
+.logo img{
+    height: 90px;
+    width: 110px;
+}
+.content{
+    
+}
+.content h3{
+    color: coral;
+    font-size: 24px;
+}
+.content p{
+    font-size: 20px;
+}
